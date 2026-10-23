@@ -1,0 +1,6 @@
+*.log
+build/
+/my-venv/
+.idea/
+my_notes.txt
+.DS_Store
